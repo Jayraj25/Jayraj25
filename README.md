@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**Jayraj25/Jayraj25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWkkvARdyoE3mNfHW61CKObFSiTllvyKtHTw&usqp=CAU" width="15%"/>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on ... Node.JS, React, Java, Javascript
+- 🌱 I’m currently learning ... Firebase and AWS
+- 👯 I’m looking to collaborate on ... React, Javascript, NodeJS, and Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/Jayraj25)  ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103) ![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Jayraj25.Jayraj25)
+
+
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/jayrajthakor/)
+<a href="mailto:jayrajthakor9134@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=Jayraj25&show_icons=true&hide_border=true" alt="Jayraj's GitHub Stats">
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayraj25&show_icons=true)
