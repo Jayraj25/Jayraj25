@@ -3,7 +3,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWkkvARdyoE3mNfHW61CKObFSiTllvyKtHTw&usqp=CAU" width="15%"/>
 
 - 🔭 I’m currently working on ... Node.JS, React, Java, Javascript
-- 🌱 I’m currently learning ... Firebase and AWS
+- 🌱 I’m currently learning ... Docker and AWS
 - 👯 I’m looking to collaborate on ... React, Javascript, NodeJS, and Docker
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/Jayraj25)  ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103) ![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Jayraj25.Jayraj25)
