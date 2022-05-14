@@ -9,7 +9,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/Jayraj25)  ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103) ![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Jayraj25.Jayraj25)
 
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/jayrajthakor/)
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="3.5%"/>](https://www.linkedin.com/in/jayrajthakor/)
 <a href="mailto:jayrajthakor9134@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 
 
